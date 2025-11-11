@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>   <!--a reinforced wall that doesnt give resoruces upon deconstruction.-->
+
+    <ThingDef ParentName="Wall">
+        <defName>GW_FactoriumWall</defName>
+        <label>old factorium wall</label>
+        <designationCategory>GrimworldCategory</designationCategory>
+        <description>A wall used for mapmaking. you should only ever see this in god mode. its the same as a reinforced wall, just doesnt give resources on deconstruction.</description>
+        <graphicData>
+            <texPath>Things/Building/Linked/GW_ReinforcedWall_Atlas</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <statBases>
+            <MaxHitPoints>500</MaxHitPoints>
+            <WorkToBuild>1000</WorkToBuild>
+            <Flammability>0.75</Flammability>
+        </statBases>
+        <uiIconPath>Things/Building/Linked/GW_ReinforcedWall_MenuIcon</uiIconPath>
+        <uiIconPathsStuff Inherit="False" />
+        <costStuffCount>0</costStuffCount>
+		<fillPercent>1</fillPercent>		
+		<building>
+			<supportsWallAttachments>true</supportsWallAttachments>
+			<isAirtight>true</isAirtight>
+		</building>
+    </ThingDef>
+</Defs>
