@@ -6,7 +6,7 @@
 		<description>Fill this out sometime</description>
 		<thingClass>Building_WorkTable</thingClass>
 		<graphicData>
-			<texPath>Things/Building/RepairBench/Rotl_Forge</texPath>
+			<texPath>Things/Building/Rotl_Forge</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(3.5,1.5)</drawSize>
 			<damageData>
