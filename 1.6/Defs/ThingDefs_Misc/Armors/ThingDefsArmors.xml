@@ -101,7 +101,7 @@
 		<label>Beta Emperor armor</label>
 		<description>BETA BETA BETA BETA </description>
 		<graphicData>
-			<texPath>Emperor/GW_HRM_EmperorW</texPath>
+			<texPath>Emperor/GW_HRM_Emperor_ArmorC</texPath>
 		</graphicData>
 		<recipeMaker>
 			<!-- make this custodes <researchPrerequisite>GW_SM_Guilliman</researchPrerequisite> -->
@@ -134,7 +134,7 @@
 			<HP_Auramite>50</HP_Auramite>
 		</costList>
 		<apparel>
-			<wornGraphicPath>Things/Apparel/Armor_ChapterMaster/GuillimanW_torso</wornGraphicPath>
+			<wornGraphicPath>Emperor/GW_HRM_Emperor_ArmorC</wornGraphicPath>
 			<tags>
 				<li>GW_ChapterMaster</li>
 			</tags>
