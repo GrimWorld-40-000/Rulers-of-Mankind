@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\GWRulers\\GW\\GW.csproj": {}
+    "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\Assemblies\\GWRulers\\GW\\GW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\GWRulers\\GW\\GW.csproj": {
+    "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\Assemblies\\GWRulers\\GW\\GW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\GWRulers\\GW\\GW.csproj",
+        "projectUniqueName": "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\Assemblies\\GWRulers\\GW\\GW.csproj",
         "projectName": "GW",
-        "projectPath": "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\GWRulers\\GW\\GW.csproj",
+        "projectPath": "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\Assemblies\\GWRulers\\GW\\GW.csproj",
         "packagesPath": "C:\\Users\\fkeye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\GWRulers\\GW\\obj\\",
+        "outputPath": "C:\\Users\\fkeye\\OneDrive\\Documents\\Highest-Rulers-of-Mankind\\Assemblies\\GWRulers\\GW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fkeye\\AppData\\Roaming\\NuGet\\NuGet.Config"
