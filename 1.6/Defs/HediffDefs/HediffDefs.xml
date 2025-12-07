@@ -2,8 +2,8 @@
 
 	<HediffDef>
 		<defName>GW_Ruler_ValdorSpearXpDrain</defName>
-		<label>valdor's spear</label>
-		<description>WIP.</description>
+		<label>Spear of Valdor</label>
+		<description>The Apollonian Spear tells truths to this pawn - upon slaying an enemy, they add a portion of the enemy's skills to their own.</description>
 		<isBad>false</isBad>
 		<hediffClass>HediffWithComps</hediffClass>
 		<initialSeverity>0.001</initialSeverity>
@@ -17,8 +17,8 @@
 
 	<HediffDef>
 		<defName>GW_Ruler_EmperorAura</defName>
-		<label>emperor's aura</label>
-		<description>WIP.</description>
+		<label>Holy Light</label>
+		<description>The sheer radiance of this pawn inspires others to fight with all their might.</description>
 		<isBad>false</isBad>
 		<hediffClass>HediffWithComps</hediffClass>
 		<initialSeverity>0.001</initialSeverity>
@@ -102,8 +102,8 @@
 
 	<HediffDef>
 		<defName>GW_Ruler_MalcadorBonus</defName>
-		<label>malcador's bonus</label>
-		<description>WIP.</description>
+		<label>Wisdom of Malcador</label>
+		<description>Armed with the wits of Malcador the Sigillite, this pawn can negotiate a more desirable deal in trade.</description>
 		<isBad>false</isBad>
 		<hediffClass>HediffWithComps</hediffClass>
 		<initialSeverity>0.001</initialSeverity>
