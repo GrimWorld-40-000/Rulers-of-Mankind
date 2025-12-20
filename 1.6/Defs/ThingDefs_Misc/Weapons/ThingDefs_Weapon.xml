@@ -729,7 +729,7 @@
 
 	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
 		<defName>GW_SM_Melee_MalcadorStaffRanged</defName>
-		<label>Staff of Malcador(Ranged)</label>
+		<label>Staff of Malcador(ranged)</label>
 		<description>A masterfully-crafted staff symbolising high office, patterned after the staff of Malcador the Sigillite. As well as being ornate, it also makes for a surprisingly potent weapon in an emergency. \n\nIt is said that Malcador's staff could unleash a wave of nuclear hellfire at his command, but the man himself considered it a tool rather than a weapon.</description>
 		<possessionCount>1</possessionCount>
 		<graphicData>
