@@ -503,10 +503,10 @@
 		<comps>
         </comps>
 	    <modExtensions>
-			<li Class="VEF.Apparels.ApparelExtension">
-                <isUnifiedApparel>true</isUnifiedApparel>
-				<hideHead>false</hideHead>
-            </li>
+			<!-- <li Class="VEF.Apparels.ApparelExtension"> -->
+                <!-- <isUnifiedApparel>true</isUnifiedApparel> -->
+				<!-- <hideHead>false</hideHead> -->
+            <!-- </li> -->
             <li Class="CombatExtended.PartialArmorExt" MayRequire="ceteam.combatextended">
                 <stats>		  				  
                     <li>
@@ -613,7 +613,7 @@
 		<label>Gravis power armor</label>
 		<description>WIP.</description>
 		<graphicData>
-			<texPath>LegionOfTheDamned/Gravis/Shell/LOTDGravis</texPath>
+			<texPath>LegionOfTheDamned/Gravis/LOTDGravis_Brother_Male_south</texPath>
 		</graphicData>
 		<recipeMaker>
             <researchPrerequisite>Fabrication</researchPrerequisite>
@@ -649,6 +649,7 @@
 					<layer>70</layer>
 				</dataEast>
             </drawData>
+			<!-- <wornGraphicPath>Malcador/Apparel/GW_HRM_MalcadorRobe</wornGraphicPath> -->
             <wornGraphicPath>LegionOfTheDamned/Gravis/LOTDGravis_Brother</wornGraphicPath>
 			<tags>
                 <li>GW_Gravis</li>
