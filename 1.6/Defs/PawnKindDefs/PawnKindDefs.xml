@@ -13,8 +13,13 @@
     </weaponTags>
     <apparelColor>(250,250,250)</apparelColor>
     <apparelRequired>
-      <li>Apparel_ArmorHelmetCataphract</li>
-      <li>Apparel_ArmorCataphract</li>
+      <li>GW_Rulers_FirstbornArmor</li>
+      <li>GW_Rulers_PrimarisArmor</li>
+      <li>GW_Rulers_GravisArmor</li>
+      <li>GW_Rulers_GravisHelmet</li>
+      <li>GW_Rulers_PrimarisTenatHelmet</li>
+      <li>GW_Rulers_PrimarisHelmet</li>
+      <li>GW_SM_FirstbornHelmet</li>
     </apparelRequired>
     <specificApparelRequirements Inherit="False">
       <li>
@@ -47,6 +52,10 @@
     <skills>
       <li>
         <skill>Shooting</skill>
+        <range>8~12</range>
+      </li>
+      <li>
+        <skill>Melee</skill>
         <range>8~12</range>
       </li>
     </skills>

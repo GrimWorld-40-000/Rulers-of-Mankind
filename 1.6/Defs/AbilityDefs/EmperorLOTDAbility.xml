@@ -72,8 +72,8 @@
 		</statBases>
 		<verbProperties>
 			<verbClass>Verb_CastAbility</verbClass>
-			<warmupTime>1</warmupTime>
-			<range>24.9</range>
+			<warmupTime>2</warmupTime>
+			<range>40</range>
 			<targetParams>
 				<canTargetSelf>True</canTargetSelf>
 				<canTargetAnimals>True</canTargetAnimals>
@@ -85,7 +85,7 @@
 				<compClass>CompAbilityEffect_GiveHediff</compClass>
 				<hediffDef>GW_Ruler_MalcadorDebuff</hediffDef>
 				<durationMultiplier>PsychicSensitivity</durationMultiplier>
-				<goodwillImpact>-15</goodwillImpact>
+				<goodwillImpact>-40</goodwillImpact>
 				<applyGoodwillImpactToLodgers>False</applyGoodwillImpactToLodgers>
 			</li>
 			<li Class="CompProperties_AbilityFleckOnTarget">
