@@ -6,7 +6,7 @@
     <label>LOTD</label>
     <royalTitleChance Inherit="False" />
     <titleSelectOne Inherit="False" />
-    <combatPower>150</combatPower>
+    <combatPower>1500</combatPower>
     <weaponTags>
       <li>GunHeavy</li>
       <li>SpacerGun</li>
