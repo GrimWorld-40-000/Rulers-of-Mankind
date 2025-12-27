@@ -758,7 +758,7 @@
 			<li>
 				<verbClass>Verb_Shoot</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<defaultProjectile>GW_Bullet_flamer</defaultProjectile>
+				<defaultProjectile>GW_Bullet_PsychicFlamer</defaultProjectile>
 				<range>20</range>
 				<soundCast>GW_Heavy_Bolt_Gun_Sound</soundCast>
 				<burstShotCount>3</burstShotCount>
@@ -854,7 +854,7 @@
 		<projectile>
 			<damageDef>Flame</damageDef>
 			<speed>45</speed>
-			<damageAmountBase>12</damageAmountBase>
+			<damageAmountBase>3</damageAmountBase>
 			<armorPenetrationBase>9999</armorPenetrationBase>
 		</projectile>
 
