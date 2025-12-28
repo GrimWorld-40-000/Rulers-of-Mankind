@@ -3,7 +3,7 @@
 
   <PawnKindDef ParentName="CataphractBase">
     <defName>LOTD_Firstborn</defName>
-    <label>LOTD Firstborn</label>
+    <label>LotD Firstborn</label>
     <royalTitleChance Inherit="False" />
     <titleSelectOne Inherit="False" />
     <combatPower>1500</combatPower>
@@ -61,7 +61,7 @@
 
 <PawnKindDef ParentName="CataphractBase">
     <defName>LOTD_Primaris</defName>
-    <label>LOTD Primaris</label>
+    <label>LotD Primaris</label>
     <royalTitleChance Inherit="False" />
     <titleSelectOne Inherit="False" />
     <combatPower>1500</combatPower>
@@ -119,7 +119,7 @@
 
 <PawnKindDef ParentName="CataphractBase">
     <defName>LOTD_Gravis</defName>
-    <label>LOTD Gravis</label>
+    <label>LotD Gravis</label>
     <royalTitleChance Inherit="False" />
     <titleSelectOne Inherit="False" />
     <combatPower>1500</combatPower>
