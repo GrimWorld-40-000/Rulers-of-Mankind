@@ -46,6 +46,8 @@
 			<HP_Auramite>50</HP_Auramite>
 			<HP_Ceramite>100</HP_Ceramite>
 			<GW_Ruler_GoldenSTC>1</GW_Ruler_GoldenSTC>
+			<ComponentSpacer>10</ComponentSpacer>
+			<GW_ComponentRelic>6</GW_ComponentRelic>
 		</costList>
 		<altitudeLayer>Building</altitudeLayer>
 		<fillPercent>0.5</fillPercent>
