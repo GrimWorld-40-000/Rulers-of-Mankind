@@ -103,10 +103,10 @@
 			<PainShockThreshold>0.2</PainShockThreshold>
 		</equippedStatOffsets>
 		<costList>
-			<GW_Ruler_GoldenSTC>4</GW_Ruler_GoldenSTC>
-			<Plasteel>125</Plasteel>
-			<HP_Auramite>50</HP_Auramite>
+			<Plasteel>250</Plasteel>
+			<HP_Auramite>100</HP_Auramite>
 			<HP_Ceramite>80</HP_Ceramite>
+			<Gold>22</Gold>
 		</costList>
 		<apparel>
 			<wornGraphicPath>Emperor/Shoulders/GW_HRM_Emperor_ShouldersW</wornGraphicPath>
@@ -159,10 +159,10 @@
 			<PainShockThreshold>0.2</PainShockThreshold>
 		</equippedStatOffsets>
 		<costList>
-			<GW_Ruler_GoldenSTC>4</GW_Ruler_GoldenSTC>
-			<Plasteel>125</Plasteel>
-			<HP_Auramite>50</HP_Auramite>
+			<Plasteel>250</Plasteel>
+			<HP_Auramite>100</HP_Auramite>
 			<HP_Ceramite>80</HP_Ceramite>
+			<Gold>22</Gold>
 		</costList>
 		<apparel>
 			<wornGraphicPath>Emperor/Shoulders/GW_HRM_Emperor_ShouldersC</wornGraphicPath>
@@ -206,10 +206,10 @@
 			<PainShockThreshold>0.2</PainShockThreshold>
 		</equippedStatOffsets>
 		<costList>
-			<GW_Ruler_GoldenSTC>4</GW_Ruler_GoldenSTC>
-			<Plasteel>125</Plasteel>
-			<HP_Auramite>50</HP_Auramite>
-			<HP_Ceramite>80</HP_Ceramite>
+			<Plasteel>270</Plasteel>
+			<HP_Auramite>120</HP_Auramite>
+			<HP_Ceramite>100</HP_Ceramite>
+			<Gold>20</Gold>
 		</costList>
 		<apparel>
 			<wornGraphicPath>Valdor/Shoulders/GW_HRM_Valdor_ShouldersW</wornGraphicPath>
@@ -261,10 +261,10 @@
 			<PainShockThreshold>0.2</PainShockThreshold>
 		</equippedStatOffsets>
 		<costList>
-			<GW_Ruler_GoldenSTC>4</GW_Ruler_GoldenSTC>
-			<Plasteel>125</Plasteel>
-			<HP_Auramite>50</HP_Auramite>
-			<HP_Ceramite>80</HP_Ceramite>
+			<Plasteel>270</Plasteel>
+			<HP_Auramite>120</HP_Auramite>
+			<HP_Ceramite>100</HP_Ceramite>
+			<Gold>20</Gold>
 		</costList>
 		<apparel>
 			<wornGraphicPath>Valdor/Shoulders/GW_HRM_Valdor_ShouldersC</wornGraphicPath>
