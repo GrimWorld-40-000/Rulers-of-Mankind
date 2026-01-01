@@ -141,6 +141,14 @@
 				<li>GW_ChapterMaster</li>
 			</tags>
 		</apparel>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>GreaterEqual</reqMode>
+				<value>1.4</value>
+			</li>
+		</modExtensions>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
 				<maskCount>1</maskCount>
@@ -208,6 +216,14 @@
 				<li>GW_ChapterMaster</li>
 			</tags>
 		</apparel>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>GreaterEqual</reqMode>
+				<value>1.4</value>
+			</li>
+		</modExtensions>
 		<comps>
 			<li Class="BM_ApparelSet.CompProperties_ApparelSet">
 				<apparelSetEffect>
@@ -444,6 +460,12 @@
 						</parts>
 					</li>
 				</stats>
+			</li>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>GreaterEqual</reqMode>
+				<value>1.4</value>
 			</li>
 		</modExtensions>
 	</ThingDef>

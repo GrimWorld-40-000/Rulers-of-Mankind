@@ -129,6 +129,14 @@
 				<compClass>SaveOurShip2.CompEVA</compClass>
 			</li>
 		</comps>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>GreaterEqual</reqMode>
+				<value>1.4</value>
+			</li>
+		</modExtensions>
 	</ThingDef>
 	
 	<ThingDef ParentName="GW_Rulers_HelmetBase">
@@ -189,6 +197,14 @@
 				<compClass>SaveOurShip2.CompEVA</compClass>
 			</li>
 		</comps>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>GreaterEqual</reqMode>
+				<value>1.4</value>
+			</li>
+		</modExtensions>
 	</ThingDef>
 	
 	<ThingDef ParentName="GW_Rulers_HelmetBase">
@@ -395,6 +411,14 @@
 				<compClass>SaveOurShip2.CompEVA</compClass>
 			</li>
 		</comps>
+		<modExtensions>
+			<li Class="GW_ApparelRestriction.DefModExtension_ApparelRestriction">
+				<isRestrictStat>true</isRestrictStat>
+				<statDef>PsychicSensitivity</statDef>
+				<reqMode>GreaterEqual</reqMode>
+				<value>1.4</value>
+			</li>
+		</modExtensions>
 	</ThingDef>
 	
 	<ThingDef Abstract="true" Name="GW_RulersAOD_HelmetBase" ParentName="ArmorHelmetMakeableBase">
