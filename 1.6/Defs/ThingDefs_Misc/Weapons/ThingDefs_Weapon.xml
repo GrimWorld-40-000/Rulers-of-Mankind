@@ -2,7 +2,7 @@
 	<!--Melee weapons-->
 	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
 		<defName>GW_SM_Melee_EmperorClaw</defName>
-		<label>Emperor's power claw</label>
+		<label>Emperor's Lightning Claw</label>
 		<description>An auramite-plated Lightning Claw, designed after the one used by the Emperor of Mankind. A single stroke of this weapon could separate an armored warrior into so many pieces.\n\nMuch is said of the Emperor, but one must never say he did not sacrifice much to defeat Horus.</description>
 		<graphicData>
 			<texPath>Things/Weapons/EmperorClaw</texPath>
@@ -98,7 +98,7 @@
 
 	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
 		<defName>GW_SM_Melee_ValdorSpear</defName>
-		<label>Apollonian spear</label>
+		<label>Apollonian Spear</label>
 		<description>A masterfully-crafted Guardian Spear patterned after the right hand of Constantin Valdor himself. Not only does it cleave and blast through foes like so much butter, but it also grants truths to its wielder from those it cuts - as the enemy falls, the wielder reaps their skills.\n\nAfter the disappearance of Constantin Valdor, the true Apollonian Spear was placed in storage, worshipped by the Adeptus Custodes as a holy relic.</description>
 		<possessionCount>1</possessionCount>
 		<graphicData>
@@ -229,7 +229,7 @@
 
 	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
 		<defName>GW_SM_Melee_ValdorSpearRanged</defName>
-		<label>Apollonian spear (ranged)</label>
+		<label>Apollonian Spear (ranged)</label>
 		<description>A masterfully-crafted Guardian Spear patterned after the right hand of Constantin Valdor himself. Not only does it cleave and blast through foes like so much butter, but it also grants truths to its wielder from those it cuts - as the enemy falls, the wielder reaps their skills.\n\nAfter the disappearance of Constantin Valdor, the true Apollonian Spear was placed in storage, worshipped by the Adeptus Custodes as a holy relic.</description>
 		<possessionCount>1</possessionCount>
 		<graphicData>
@@ -539,7 +539,7 @@
 
 	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
 		<defName>GW_SM_Melee_MalcadorStaffRanged</defName>
-		<label>Staff of Malcador(ranged)</label>
+		<label>Staff of Malcador (ranged)</label>
 		<description>A masterfully-crafted staff symbolising high office, patterned after the staff of Malcador the Sigillite. As well as being ornate, it also makes for a surprisingly potent weapon in an emergency. \n\nIt is said that Malcador's staff could unleash a wave of nuclear hellfire at his command, but the man himself considered it a tool rather than a weapon.</description>
 		<possessionCount>1</possessionCount>
 		<graphicData>
