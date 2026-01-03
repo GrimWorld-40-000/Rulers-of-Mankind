@@ -207,19 +207,19 @@
 			<li Class="VEF.Things.ThingDefExtension">
 				<weaponDraftedDrawOffsets>
 					<north>
-						<drawOffset>(0.3, 0, 0.0)</drawOffset>
+						<drawOffset>(0.3, 0, 0.5)</drawOffset>
 						<angleOffset>-90</angleOffset>
 					</north>
 					<east>
-						<drawOffset>(0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(0.15, 0, 0.5)</drawOffset>
 						<angleOffset>-90</angleOffset>
 					</east>
 					<south>
-						<drawOffset>(0.40, 0, 0.0)</drawOffset>
+						<drawOffset>(0.40, 0, 0.5)</drawOffset>
 						<angleOffset>-90</angleOffset>
 					</south>
 					<west>
-						<drawOffset>(-0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(-0.15, 0, 0.5)</drawOffset>
 						<angleOffset>90</angleOffset>
 					</west>
 				</weaponDraftedDrawOffsets>
@@ -348,19 +348,19 @@
 			<li Class="VEF.Things.ThingDefExtension">
 				<weaponDraftedDrawOffsets>
 					<north>
-						<drawOffset>(0.3, 0, 0.0)</drawOffset>
+						<drawOffset>(0.3, 0, 0.5)</drawOffset>
 						<angleOffset>-90</angleOffset>
 					</north>
 					<east>
-						<drawOffset>(0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(0.15, 0, 0.5)</drawOffset>
 						<angleOffset>-90</angleOffset>
 					</east>
 					<south>
-						<drawOffset>(0.40, 0, 0.0)</drawOffset>
+						<drawOffset>(0.40, 0, 0.5)</drawOffset>
 						<angleOffset>-90</angleOffset>
 					</south>
 					<west>
-						<drawOffset>(-0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(-0.15, 0, 0.5)</drawOffset>
 						<angleOffset>90</angleOffset>
 					</west>
 				</weaponDraftedDrawOffsets>
@@ -501,19 +501,19 @@
 			<li Class="VEF.Things.ThingDefExtension">
 				<weaponDraftedDrawOffsets>
 					<north>
-						<drawOffset>(-0.3, 0, 0.0)</drawOffset>
+						<drawOffset>(-0.3, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>-143</angleOffset> -->
 					</north>
 					<east>
-						<drawOffset>(-0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(-0.15, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>-122</angleOffset> -->
 					</east>
 					<south>
-						<drawOffset>(0.40, 0, 0.0)</drawOffset>
+						<drawOffset>(0.40, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>-143</angleOffset> -->
 					</south>
 					<west>
-						<drawOffset>(0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(0.15, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>122</angleOffset> -->
 					</west>
 				</weaponDraftedDrawOffsets>
@@ -545,7 +545,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/GW_HRM_Malcador_Staff</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>1.0</drawSize>
+			<drawSize>1.2</drawSize>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
 		<weaponTags Inherit="False">
@@ -566,6 +566,7 @@
 		<tradeability>Sellable</tradeability>
 		<uiIconScale>1.2</uiIconScale>
 		<smeltable>false</smeltable>
+		<equippedAngleOffset>-90</equippedAngleOffset>
 		<burnableByRecipe>false</burnableByRecipe>
 		<statBases>
 			<MaxHitPoints>700</MaxHitPoints>
@@ -589,7 +590,7 @@
 				<hasStandardCommand>true</hasStandardCommand>
 				<defaultProjectile>GW_Bullet_PsychicFlamer</defaultProjectile>
 				<range>20</range>
-				<soundCast>GW_Heavy_Bolt_Gun_Sound</soundCast>
+				<soundCast>GW_Rulers_PsyFlamer_Sound</soundCast>
 				<burstShotCount>3</burstShotCount>
 				<ticksBetweenBurstShots>15</ticksBetweenBurstShots>
 				<ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
@@ -655,19 +656,19 @@
 			<li Class="VEF.Things.ThingDefExtension">
 				<weaponDraftedDrawOffsets>
 					<north>
-						<drawOffset>(-0.3, 0, 0.0)</drawOffset>
+						<drawOffset>(-0.3, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>-143</angleOffset> -->
 					</north>
 					<east>
-						<drawOffset>(-0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(-0.15, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>-122</angleOffset> -->
 					</east>
 					<south>
-						<drawOffset>(0.40, 0, 0.0)</drawOffset>
+						<drawOffset>(0.40, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>-143</angleOffset> -->
 					</south>
 					<west>
-						<drawOffset>(0.15, 0, 0.0)</drawOffset>
+						<drawOffset>(0.15, 0, 0.2)</drawOffset>
 						<!-- <angleOffset>122</angleOffset> -->
 					</west>
 				</weaponDraftedDrawOffsets>
@@ -695,8 +696,8 @@
 		<label>flamer shot</label>
 		<thingClass>VEF.Weapons.FlamethrowProjectile</thingClass>
 		<graphicData>
-			<texPath>Projectiles/AMFlamer_Flame</texPath>
-			<texPathFadeOut>Projectiles/AMFlamer_End</texPathFadeOut>
+			<texPath>Projectiles/Psy_Flame_Flame</texPath>
+			<texPathFadeOut>Projectiles/Psy_Flame_End</texPathFadeOut>
 			<shaderType>MoteGlow</shaderType>
 		</graphicData>
 		<projectile>
@@ -718,5 +719,21 @@
 		<dealsDamageOnce>true</dealsDamageOnce>
 		<minDistanceToAffect>2</minDistanceToAffect>
 	</VEF.Weapons.ExpandableProjectileDef>
+	<SoundDef>
+		<defName>GW_Rulers_PsyFlamer_Sound</defName>
+		<context>MapOnly</context>
+		<eventNames />  
+		<maxSimultaneous>10</maxSimultaneous>  
+        <subSounds>
+          <li>
+            <grains>
+              <li Class="AudioGrain_Folder">
+                <clipPath>Weapons/Flamer</clipPath>
+              </li>
+            </grains>      
+            <volumeRange>50~50</volumeRange>      
+          </li>
+        </subSounds>
+	</SoundDef>
 	
 </Defs>

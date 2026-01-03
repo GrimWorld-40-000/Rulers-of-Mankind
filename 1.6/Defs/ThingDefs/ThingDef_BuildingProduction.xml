@@ -34,8 +34,8 @@
 			</damageData>
 		</graphicData>
 		<uiIconPath>Things/Buildings/RotI_Forge_south</uiIconPath>
-		<castEdgeShadows>true</castEdgeShadows>
-		<staticSunShadowHeight>0.20</staticSunShadowHeight>
+		<castEdgeShadows>false</castEdgeShadows>
+		<!-- <staticSunShadowHeight>0.20</staticSunShadowHeight> -->
 		<statBases>
 			<WorkToBuild>35000</WorkToBuild>
 			<Flammability>0</Flammability>
@@ -58,7 +58,7 @@
 		<passability>PassThroughOnly</passability>
 		<pathCost>50</pathCost>
 		<hasInteractionCell>True</hasInteractionCell>
-		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
+		<interactionCellOffset>(0,0,-3)</interactionCellOffset>
 		<surfaceType>Item</surfaceType>
 		<constructionSkillPrerequisite>18</constructionSkillPrerequisite>
 		<inspectorTabs>

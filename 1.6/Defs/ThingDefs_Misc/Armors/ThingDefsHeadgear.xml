@@ -475,7 +475,7 @@
 	<ThingDef ParentName="GW_RulersAOD_HelmetBase">
 		<defName>GW_SM_FirstbornHelmet</defName>
 		<label>Firstborn helmet</label>
-		<description><description>Isstvan V... Isstvan V... Isstvan V.</description></description>
+		<description>Isstvan V... Isstvan V... Isstvan V.</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Firstborn/Shell/LOTDFirstBornHelmet</texPath>
 		</graphicData>
@@ -484,7 +484,7 @@
 			<tags>
 				<li>GW_Firstborn</li>
 			</tags>
-			<wornGraphicPath>LegionOfTheDamned/Firstborn/LOTDFirstBorn_Brother</wornGraphicPath>
+			<wornGraphicPath>LegionOfTheDamned/Firstborn/HeadGear1/LOTDFirstBornHelmet</wornGraphicPath>
 		</apparel>
 		<comps />
 		<equippedStatOffsets>
@@ -518,7 +518,7 @@
 	<ThingDef ParentName="GW_RulersAOD_HelmetBase">
 		<defName>GW_Rulers_PrimarisHelmet</defName>
 		<label>Primaris helmet</label>
-		<description><description>Isstvan V... Isstvan V... Isstvan V.</description></description>
+		<description>Isstvan V... Isstvan V... Isstvan V.</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Primaris/Shell/LOTDPrimarisHelmet</texPath>
 		</graphicData>
@@ -561,7 +561,7 @@
 	<ThingDef ParentName="GW_RulersAOD_HelmetBase">
 		<defName>GW_Rulers_PrimarisTenatHelmet</defName>
 		<label>Primaris helmet(Lieutenant)</label>
-		<description><description>Isstvan V... Isstvan V... Isstvan V.</description></description>
+		<description>Isstvan V... Isstvan V... Isstvan V.</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Primaris/Shell/LOTD_PrimarisLieutenat</texPath>
 		</graphicData>
@@ -604,7 +604,7 @@
 	<ThingDef ParentName="GW_RulersAOD_HelmetBase">
 		<defName>GW_Rulers_GravisHelmet</defName>
 		<label>Gravis helmet</label>
-		<description><description>Isstvan V... Isstvan V... Isstvan V.</description></description>
+		<description>Isstvan V... Isstvan V... Isstvan V.</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Gravis/Shell/LOTDGravisHelmet</texPath>
 		</graphicData>
