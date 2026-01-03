@@ -99,8 +99,8 @@
 	
 	<ThingDef ParentName="GW_Rulers_ArmorBase">
 		<defName>GW_Rulers_EmperorArmorW</defName>
-		<label>Emperor armor (W)</label>
-		<description>BETA BETA BETA BETA</description>
+		<label>One True Armor (W)</label>
+		<description>A truly majestic suit of auramite Power Armor, patterned after the legendary suit worn by the God-Emperor of Mankind. Its protection is unrivalled - but it can only be worn by those with a high degree of psychic potential. \n\nThe Emperor has guided mankind from time immemorial, adopting various guises throughout history. It was only during the Age of Strife that He emerged in His full majesty, founded the Imperium of Mankind, and sallied forth across the galaxy to build His empire.</description>
 		<graphicData>
 			<texPath>Emperor/GW_HRM_Emperor_ArmorW_south</texPath>
 		</graphicData>
@@ -179,8 +179,8 @@
 	
 	<ThingDef ParentName="GW_Rulers_ArmorBase">
 		<defName>GW_Rulers_EmperorArmor</defName>
-		<label>Emperor armor</label>
-		<description>BETA BETA BETA BETA</description>
+		<label>One True Armor</label>
+		<description>A truly majestic suit of auramite Power Armor, patterned after the legendary suit worn by the God-Emperor of Mankind. Its protection is unrivalled - but it can only be worn by those with a high degree of psychic potential. \n\nThe Emperor has guided mankind from time immemorial, adopting various guises throughout history. It was only during the Age of Strife that He emerged in His full majesty, founded the Imperium of Mankind, and sallied forth across the galaxy to build His empire.</description>
 		<graphicData>
 			<texPath>Emperor/GW_HRM_Emperor_ArmorC_south</texPath>
 		</graphicData>
@@ -250,8 +250,8 @@
 	
 	<ThingDef ParentName="GW_Rulers_ArmorBase">
 		<defName>GW_Rulers_ValdorArmorW</defName>
-		<label>Valdor armor (W)</label>
-		<description>WIP</description>
+		<label>Corinthine Warplate (W)</label>
+		<description>The Power Armor of Constantin Valdor, the first Captain-General of the Legio Custodes. This armor is the stuff of legend, turning the user into a stalwart, auramite juggernaut. \n\nValdor was the first Custodian successfully produced by the Emperor's gene-craft, and has always been held as the greatest of them all. At the dawn of the Horus Heresy, he had earned nearly two thousand names, and a full transcription of them was enough to fill an entire book.</description>
 		<graphicData>
 			<texPath>Valdor/GW_HRM_Valdor_ArmorW_south</texPath>
 		</graphicData>
@@ -331,8 +331,8 @@
 	
 	<ThingDef ParentName="GW_Rulers_ArmorBase">
 		<defName>GW_Rulers_ValdorArmor</defName>
-		<label>Valdor armor</label>
-		<description>WIP</description>
+		<label>Corinthine Warplate</label>
+		<description>The Power Armor of Constantin Valdor, the first Captain-General of the Legio Custodes. This armor is the stuff of legend, turning the user into a stalwart, auramite juggernaut. \n\nValdor was the first Custodian successfully produced by the Emperor's gene-craft, and has always been held as the greatest of them all. At the dawn of the Horus Heresy, he had earned nearly two thousand names, and a full transcription of them was enough to fill an entire book.</description>
 		<graphicData>
 			<texPath>Valdor/GW_HRM_Valdor_ArmorC_south</texPath>
 		</graphicData>
@@ -402,8 +402,8 @@
 	
 	<ThingDef ParentName="GW_Rulers_ArmorBase">
 		<defName>GW_Rulers_MalcadorOutfit</defName>
-		<label>Malcador robes</label>
-		<description>WIP</description>
+		<label>Robes of Malcador</label>
+		<description>A master-crafted set of robes akin to those worn by Malcador the Sigillite, the closest advisor of the Emperor of Mankind. Auramite and ceramite reinforcement makes this a deceptively-protective piece of apparel. \n\nMalcador met the Emperor as He began His conquest, and was the one who recommended that He take on His title. The Sigillite served loyally as the Imperium ascended to the stars, with his mastery of organisation keeping the ever-expanding empire in order.</description>
 		<graphicData>
 			<texPath>Malcador/Apparel/GW_HRM_MalcadorRobe_Male_south</texPath>
 		</graphicData>
@@ -578,7 +578,7 @@
 	<ThingDef ParentName="GW_RulersAOD_ArmorBase">
         <defName>GW_Rulers_FirstbornArmor</defName>
 		<label>Firstborn armor</label>
-        	<description>Isstvan V... Isstvan V... Isstvan V.</description>
+        	<description>Isstvan V... Isstvan V... Isstvan V...</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Firstborn/Shell/LOTDFirstBorn</texPath>
 		</graphicData>
@@ -618,7 +618,7 @@
 	<ThingDef ParentName="GW_RulersAOD_ArmorBase">
         <defName>GW_Rulers_PrimarisArmor</defName>
 		<label>Primaris armor</label>
-        	<description>Isstvan V... Isstvan V... Isstvan V.</description>
+        	<description>Isstvan V... Isstvan V... Isstvan V...</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Primaris/Shell/LOTDPrimaris</texPath>
 		</graphicData>
@@ -660,7 +660,7 @@
 	<ThingDef ParentName="GW_RulersAOD_ArmorBase">
         <defName>GW_Rulers_GravisArmor</defName>
 		<label>Gravis power armor</label>
-		<description>Isstvan V... Isstvan V... Isstvan V.</description>
+		<description>Isstvan V... Isstvan V... Isstvan V...</description>
 		<graphicData>
 			<texPath>LegionOfTheDamned/Gravis/LOTDGravis_Brother_Male_south</texPath>
 		</graphicData>
