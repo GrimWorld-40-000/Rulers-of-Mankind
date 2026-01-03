@@ -649,14 +649,14 @@
 		<label>Xth</label>
 		<description>Isstvan V... Isstvan V... Isstvan V.</description>
 		<graphicData>
-			<texPath>LegionOfTheDamned/Xth</texPath>
+			<texPath>LegionOfTheDamned/Xth/Skost_south</texPath>
 		</graphicData>
-		<uiIconPath>LegionOfTheDamned/Xth</uiIconPath>
+		<uiIconPath>LegionOfTheDamned/Xth/Skost_south</uiIconPath>
 		<apparel>
 			<tags>
 				<li>GW_Xth</li>
 			</tags>
-			<wornGraphicPath>LegionOfTheDamned/Xth</wornGraphicPath>
+			<wornGraphicPath>LegionOfTheDamned/Xth/Skost</wornGraphicPath>
 		</apparel>
 		<comps />
 		<equippedStatOffsets>

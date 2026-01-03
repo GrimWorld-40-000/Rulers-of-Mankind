@@ -320,8 +320,8 @@
 			</li>
 			<li Class="CompProperties_Shield">
 				<startingTicksToReset>3200</startingTicksToReset>
-				<minDrawSize>1.2</minDrawSize>
-				<maxDrawSize>1.55</maxDrawSize>
+				<minDrawSize>1.8</minDrawSize>
+				<maxDrawSize>2</maxDrawSize>
 				<energyLossPerDamage>0.033</energyLossPerDamage>
 				<energyOnReset>0.2</energyOnReset>
 				<blocksRangedWeapons>false</blocksRangedWeapons>
@@ -375,7 +375,7 @@
 				<li>GW_ChapterMaster</li>
 			</tags>
 			<drawData>
-				<scale>1.3</scale>
+				<scale>1.4</scale>
 			</drawData>
 		</apparel>
 		<comps>
@@ -391,8 +391,8 @@
 			</li>
 			<li Class="CompProperties_Shield">
 				<startingTicksToReset>3200</startingTicksToReset>
-				<minDrawSize>1.2</minDrawSize>
-				<maxDrawSize>1.55</maxDrawSize>
+				<minDrawSize>1.8</minDrawSize>
+				<maxDrawSize>2</maxDrawSize>
 				<energyLossPerDamage>0.033</energyLossPerDamage>
 				<energyOnReset>0.2</energyOnReset>
 				<blocksRangedWeapons>false</blocksRangedWeapons>
