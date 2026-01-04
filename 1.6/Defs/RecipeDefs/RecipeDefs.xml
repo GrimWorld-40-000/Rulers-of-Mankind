@@ -334,15 +334,7 @@
             <li>ComponentSpacer</li>
           </thingDefs>
         </filter>
-        <count>40</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>ComponentIndustrial</li>
-          </thingDefs>
-        </filter>
-        <count>75</count>
+        <count>55</count>
       </li>
       <li>
         <filter>
@@ -350,7 +342,7 @@
             <li>GW_ComponentRelic</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>20</count>
       </li>
       <li>
         <filter>
@@ -358,15 +350,7 @@
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>1100</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>Steel</li>
-          </thingDefs>
-        </filter>
-        <count>2000</count>
+        <count>1600</count>
       </li>
       <li>
         <filter>
@@ -374,15 +358,7 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>80</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>HP_Ceramite</li>
-          </thingDefs>
-        </filter>
-        <count>900</count>
+        <count>12</count>
       </li>
       <li>
         <filter>
@@ -398,18 +374,15 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>300</count>
+        <count>550</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
         <li>ComponentSpacer</li>
-        <li>ComponentIndustrial</li>
         <li>GW_ComponentRelic</li>
         <li>Plasteel</li>
-        <li>Steel</li>
         <li>Gold</li>
-        <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
       </thingDefs>
@@ -452,18 +425,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>ComponentIndustrial</li>
-          </thingDefs>
-        </filter>
-        <count>75</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>GW_ComponentRelic</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>18</count>
       </li>
       <li>
         <filter>
@@ -471,15 +436,7 @@
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>1100</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>Steel</li>
-          </thingDefs>
-        </filter>
-        <count>2000</count>
+        <count>1400</count>
       </li>
       <li>
         <filter>
@@ -487,7 +444,7 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>12</count>
       </li>
       <li>
         <filter>
@@ -511,16 +468,14 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>300</count>
+        <count>500</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
         <li>ComponentSpacer</li>
-        <li>ComponentIndustrial</li>
         <li>GW_ComponentRelic</li>
         <li>Plasteel</li>
-        <li>Steel</li>
         <li>Gold</li>
         <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
@@ -565,18 +520,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>ComponentIndustrial</li>
-          </thingDefs>
-        </filter>
-        <count>75</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>GW_ComponentRelic</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>18</count>
       </li>
       <li>
         <filter>
@@ -584,15 +531,7 @@
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>1100</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>Steel</li>
-          </thingDefs>
-        </filter>
-        <count>2000</count>
+        <count>1400</count>
       </li>
       <li>
         <filter>
@@ -600,7 +539,7 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>12</count>
       </li>
       <li>
         <filter>
@@ -624,16 +563,14 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>300</count>
+        <count>500</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
         <li>ComponentSpacer</li>
-        <li>ComponentIndustrial</li>
         <li>GW_ComponentRelic</li>
         <li>Plasteel</li>
-        <li>Steel</li>
         <li>Gold</li>
         <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
@@ -670,26 +607,18 @@
       <li>
         <filter>
           <thingDefs>
-            <li>ComponentSpacer</li>
-          </thingDefs>
-        </filter>
-        <count>40</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>ComponentIndustrial</li>
-          </thingDefs>
-        </filter>
-        <count>75</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>GW_ComponentRelic</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>14</count>
       </li>
       <li>
         <filter>
@@ -697,7 +626,7 @@
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>1100</count>
+        <count>500</count>
       </li>
       <li>
         <filter>
@@ -705,7 +634,7 @@
             <li>Steel</li>
           </thingDefs>
         </filter>
-        <count>2000</count>
+        <count>450</count>
       </li>
       <li>
         <filter>
@@ -713,23 +642,7 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>80</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>HP_Ceramite</li>
-          </thingDefs>
-        </filter>
-        <count>900</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>HP_Adamantium</li>
-          </thingDefs>
-        </filter>
-        <count>440</count>
+        <count>15</count>
       </li>
       <li>
         <filter>
@@ -737,20 +650,26 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>300</count>
+        <count>400</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>ComponentSpacer</li>
-        <li>ComponentIndustrial</li>
         <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
         <li>Plasteel</li>
         <li>Steel</li>
         <li>Gold</li>
-        <li>HP_Ceramite</li>
-        <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>WoodLog</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -783,26 +702,18 @@
       <li>
         <filter>
           <thingDefs>
-            <li>ComponentSpacer</li>
-          </thingDefs>
-        </filter>
-        <count>40</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>ComponentIndustrial</li>
-          </thingDefs>
-        </filter>
-        <count>75</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>GW_ComponentRelic</li>
           </thingDefs>
         </filter>
-        <count>10</count>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>14</count>
       </li>
       <li>
         <filter>
@@ -810,7 +721,7 @@
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>1100</count>
+        <count>500</count>
       </li>
       <li>
         <filter>
@@ -818,7 +729,7 @@
             <li>Steel</li>
           </thingDefs>
         </filter>
-        <count>2000</count>
+        <count>450</count>
       </li>
       <li>
         <filter>
@@ -826,23 +737,7 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>80</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>HP_Ceramite</li>
-          </thingDefs>
-        </filter>
-        <count>900</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>HP_Adamantium</li>
-          </thingDefs>
-        </filter>
-        <count>440</count>
+        <count>15</count>
       </li>
       <li>
         <filter>
@@ -850,20 +745,26 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>300</count>
+        <count>400</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>ComponentSpacer</li>
-        <li>ComponentIndustrial</li>
         <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
         <li>Plasteel</li>
         <li>Steel</li>
         <li>Gold</li>
-        <li>HP_Ceramite</li>
-        <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>WoodLog</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -896,14 +797,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>5</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
@@ -915,7 +808,15 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>100</count>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Ceramite</li>
+          </thingDefs>
+        </filter>
+        <count>200</count>
       </li>
       <li>
         <filter>
@@ -923,7 +824,7 @@
             <li>HP_Adamantium</li>
           </thingDefs>
         </filter>
-        <count>40</count>
+        <count>50</count>
       </li>
       <li>
         <filter>
@@ -931,16 +832,43 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>60</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>14</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>Gold</li>
+        <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -973,14 +901,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>5</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
@@ -992,7 +912,15 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>100</count>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Ceramite</li>
+          </thingDefs>
+        </filter>
+        <count>200</count>
       </li>
       <li>
         <filter>
@@ -1000,7 +928,7 @@
             <li>HP_Adamantium</li>
           </thingDefs>
         </filter>
-        <count>40</count>
+        <count>50</count>
       </li>
       <li>
         <filter>
@@ -1008,16 +936,43 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>60</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>7</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>14</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>Gold</li>
+        <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1050,14 +1005,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>5</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
@@ -1069,7 +1016,15 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>100</count>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Ceramite</li>
+          </thingDefs>
+        </filter>
+        <count>210</count>
       </li>
       <li>
         <filter>
@@ -1077,7 +1032,7 @@
             <li>HP_Adamantium</li>
           </thingDefs>
         </filter>
-        <count>40</count>
+        <count>55</count>
       </li>
       <li>
         <filter>
@@ -1085,16 +1040,43 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>60</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>18</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>Gold</li>
+        <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1127,14 +1109,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>5</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
@@ -1146,7 +1120,15 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>100</count>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Ceramite</li>
+          </thingDefs>
+        </filter>
+        <count>210</count>
       </li>
       <li>
         <filter>
@@ -1154,7 +1136,7 @@
             <li>HP_Adamantium</li>
           </thingDefs>
         </filter>
-        <count>40</count>
+        <count>55</count>
       </li>
       <li>
         <filter>
@@ -1162,16 +1144,43 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>60</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>18</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>Gold</li>
+        <li>HP_Ceramite</li>
         <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
+        <li>ComponentIndustrial</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1204,14 +1213,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Hyperweave</li>
           </thingDefs>
         </filter>
@@ -1223,7 +1224,7 @@
             <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>100</count>
+        <count>10</count>
       </li>
       <li>
         <filter>
@@ -1241,14 +1242,40 @@
         </filter>
         <count>50</count>
       </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Ceramite</li>
+          </thingDefs>
+        </filter>
+        <count>90</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Hyperweave</li>
         <li>Gold</li>
         <li>HP_Adamantium</li>
         <li>HP_Auramite</li>
+        <li>HP_Ceramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentSpacer</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1281,14 +1308,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
@@ -1297,10 +1316,18 @@
       <li>
         <filter>
           <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>30</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>150</count>
       </li>
       <li>
         <filter>
@@ -1313,8 +1340,8 @@
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
+        <li>Gold</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
       </thingDefs>
@@ -1348,14 +1375,6 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
@@ -1364,10 +1383,18 @@
       <li>
         <filter>
           <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>150</count>
       </li>
       <li>
         <filter>
@@ -1380,8 +1407,8 @@
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
+        <li>Gold</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
       </thingDefs>
@@ -1415,10 +1442,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
+            <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>4</count>
+        <count>20</count>
       </li>
       <li>
         <filter>
@@ -1444,13 +1471,40 @@
         </filter>
         <count>80</count>
       </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
+        <li>Gold</li>
         <li>Plasteel</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentIndustrial</li>
+        <li>ComponentSpacer</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1482,10 +1536,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
+            <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>4</count>
+        <count>20</count>
       </li>
       <li>
         <filter>
@@ -1511,13 +1565,40 @@
         </filter>
         <count>80</count>
       </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentSpacer</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
+        <li>Gold</li>
         <li>Plasteel</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>GW_ComponentRelic</li>
+        <li>ComponentIndustrial</li>
+        <li>ComponentSpacer</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1549,18 +1630,26 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
+            <li>HP_Ceramite</li>
           </thingDefs>
         </filter>
-        <count>4</count>
+        <count>100</count>
       </li>
       <li>
         <filter>
           <thingDefs>
-            <li>Plasteel</li>
+            <li>Gold</li>
           </thingDefs>
         </filter>
-        <count>125</count>
+        <count>14</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Hyperweave</li>
+          </thingDefs>
+        </filter>
+        <count>80</count>
       </li>
       <li>
         <filter>
@@ -1573,18 +1662,28 @@
       <li>
         <filter>
           <thingDefs>
-            <li>HP_Ceramite</li>
+            <li>ComponentSpacer</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>GW_ComponentRelic</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
-        <li>Plasteel</li>
-        <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>Gold</li>
+        <li>Gold</li>
+        <li>HP_Auramite</li>
+        <li>ComponentSpacer</li>
+        <li>GW_ComponentRelic</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1616,18 +1715,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>125</count>
+        <count>250</count>
       </li>
       <li>
         <filter>
@@ -1635,7 +1726,7 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>140</count>
       </li>
       <li>
         <filter>
@@ -1643,15 +1734,32 @@
             <li>HP_Ceramite</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>110</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Adamantium</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>22</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>HP_Adamantium</li>
+        <li>Gold</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1683,18 +1791,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>125</count>
+        <count>250</count>
       </li>
       <li>
         <filter>
@@ -1702,7 +1802,7 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>140</count>
       </li>
       <li>
         <filter>
@@ -1710,15 +1810,32 @@
             <li>HP_Ceramite</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>110</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Adamantium</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>22</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>HP_Adamantium</li>
+        <li>Gold</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1750,18 +1867,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>125</count>
+        <count>270</count>
       </li>
       <li>
         <filter>
@@ -1769,7 +1878,7 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>120</count>
       </li>
       <li>
         <filter>
@@ -1777,15 +1886,41 @@
             <li>HP_Ceramite</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Adamantium</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Skull</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>HP_Adamantium</li>
+        <li>Gold</li>
+        <li>Skull</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -1817,18 +1952,10 @@
       <li>
         <filter>
           <thingDefs>
-            <li>GW_Ruler_GoldenSTC</li>
-          </thingDefs>
-        </filter>
-        <count>4</count>
-      </li>
-      <li>
-        <filter>
-          <thingDefs>
             <li>Plasteel</li>
           </thingDefs>
         </filter>
-        <count>125</count>
+        <count>270</count>
       </li>
       <li>
         <filter>
@@ -1836,7 +1963,7 @@
             <li>HP_Auramite</li>
           </thingDefs>
         </filter>
-        <count>50</count>
+        <count>120</count>
       </li>
       <li>
         <filter>
@@ -1844,15 +1971,41 @@
             <li>HP_Ceramite</li>
           </thingDefs>
         </filter>
-        <count>80</count>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>HP_Adamantium</li>
+          </thingDefs>
+        </filter>
+        <count>150</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Gold</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Skull</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
       <thingDefs>
-        <li>GW_Ruler_GoldenSTC</li>
         <li>Plasteel</li>
         <li>HP_Auramite</li>
         <li>HP_Ceramite</li>
+        <li>HP_Adamantium</li>
+        <li>Gold</li>
+        <li>Skull</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
