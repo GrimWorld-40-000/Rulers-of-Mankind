@@ -233,7 +233,7 @@
 		<description>A masterfully-crafted Guardian Spear patterned after the right hand of Constantin Valdor himself. Not only does it cleave and blast through foes like so much butter, but it also grants truths to its wielder from those it cuts - as the enemy falls, the wielder reaps their skills.\n\nAfter the disappearance of Constantin Valdor, the true Apollonian Spear was placed in storage, worshipped by the Adeptus Custodes as a holy relic.</description>
 		<possessionCount>1</possessionCount>
 		<graphicData>
-			<texPath>Valdor/GW_HRM_Valdor_Spear</texPath>
+			<texPath>Things/Weapons/GW_HRM_Valdor_Spear</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<drawSize>1.5</drawSize>
 			<shaderType>CutoutComplex</shaderType>
