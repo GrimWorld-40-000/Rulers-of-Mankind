@@ -76,7 +76,7 @@
 	<HediffDef>
 		<defName>GW_Ruler_ValdorShieldBonus</defName>
 		<label>valdor's shield</label>
-		<description>WIP.</description>
+		<description>the Shield of the Emperor protects you. His divine grace bestows a personal shield onto you.</description>
 		<isBad>false</isBad>
 		<hediffClass>HediffWithComps</hediffClass>
 		<initialSeverity>0.001</initialSeverity>
