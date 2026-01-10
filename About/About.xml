@@ -1,6 +1,6 @@
 <ModMetaData>
 	<name>GrimWorld 40,000 - Masters of Mankind</name>
-	<author>Clashgore, Abomination, Sandwish, Kitchenink, Alma_D, Serina</author>
+	<author>Clashgore, Abomination, Sandwish, KitchenSink, Alma_D, Serina</author>
 	<packageId>grimworld.HighestRulers</packageId>
 	<modIconPath IgnoreIfNoMatchingField="True">UI/Icons/TalonsOfTheEmperorModIcon</modIconPath>
 	<supportedVersions>
@@ -15,11 +15,11 @@
 				<downloadUrl>https://github.com/GrimWorld-40-000/GrimWorld-Framework</downloadUrl>
 			</li>
 			<li>
-			<packageId>Grimworld.Core</packageId>
-			<displayName>Grimworld 40,000 - Core Imperialis</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3018671708</steamWorkshopUrl>
-			<downloadUrl>https://github.com/GrimWorld-40-000/Core-Imperialis</downloadUrl>
-		</li>
+				<packageId>Grimworld.Core</packageId>
+				<displayName>Grimworld 40,000 - Core Imperialis</displayName>
+				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3018671708</steamWorkshopUrl>
+				<downloadUrl>https://github.com/GrimWorld-40-000/Core-Imperialis</downloadUrl>
+			</li>
 		</v1.6>
 	</modDependenciesByVersion>
 	<loadAfter>
