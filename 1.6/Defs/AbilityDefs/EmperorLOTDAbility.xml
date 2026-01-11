@@ -40,7 +40,7 @@
                 </li>
               </pawnKindDefs>
               <defaultScaling>1</defaultScaling>
-              <summonLimit>15</summonLimit>
+              <summonLimit>12</summonLimit>
             </li>
             <li Class="CompProperties_AbilityEffecterOnTarget">
               <effecterDef>Skip_Exit</effecterDef>
